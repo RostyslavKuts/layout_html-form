@@ -1,1 +1,10 @@
 /* styles go here */
+.form_field {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.border {
+  border: 1px solid gray;
+  margin-bottom: 20px;
+}
